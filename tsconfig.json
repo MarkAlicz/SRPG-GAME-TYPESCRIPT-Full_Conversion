@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES5",
+    "ignoreDeprecations": "6.0",
+    "lib": ["ES5"],
+    "module": "none",
+    "strict": false,
+    "noImplicitAny": false,
+    "noEmitOnError": false,
+    "skipLibCheck": true,
+    "outDir": "../dist",
+    "newLine": "lf"
+  },
+  "include": ["**/*.ts"]
+}
